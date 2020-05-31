@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.8.2)
+  - JAnalytics (1.2.1):
+    - JCore (~> 1.2.0)
+  - JCore (1.2.6)
+  - JPush (3.1.2):
+    - JCore (~> 1.2.6)
+  - SendBirdSDK (3.0.133)
+
+DEPENDENCIES:
+  - Alamofire
+  - JAnalytics
+  - JPush
+  - SendBirdSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - JAnalytics
+    - JCore
+    - JPush
+    - SendBirdSDK
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  JAnalytics: a65f716b383ad470aacd63a7af1984746cc3e06f
+  JCore: cae516dd2bf1a73b578ce6e1065abd49e709e0f7
+  JPush: d0cead70ba223a6a3b52749899ebda830dfbc49a
+  SendBirdSDK: 2c5c1c952b93a89d8fa4fe04d7f86c512cebfa5f
+
+PODFILE CHECKSUM: 52d8737dd9fa514d57e7081258611fcf004d6a45
+
+COCOAPODS: 1.6.1
